@@ -1,6 +1,3 @@
-from curses.ascii import isalpha
-
-
 data = input()
 result = []
 value = 0
